@@ -441,10 +441,10 @@ RIGHT_STOP_PIN = 9     # Top limit switch
 
 This project was made possible by the collaborative efforts of:
 
-1. **SAMA E SHAN SHOUMMO** - Hardware Diagnosis & Repair
-2. **SULTAN MAHMUD SAAD** - Control System Development
-3. **NAFIS MOHAMMAD REDWAN** - Energy Monitoring System
-4. **JULFIKER IBN HAIDER** - System Integration & Testing
+1. **SAMA E SHAN SHOUMMO**
+2. **SULTAN MAHMUD SAAD**
+3. **NAFIS MOHAMMAD REDWAN**
+4. **JULFIKER IBN HAIDER**
 
 ---
 
