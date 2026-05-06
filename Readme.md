@@ -435,17 +435,7 @@ RIGHT_STOP_PIN = 9     # Top limit switch
 
 ---
 
-## 🔮 Future Enhancements
 
-- [ ] Mobile app for remote monitoring
-- [ ] Predictive maintenance using ML on energy data
-- [ ] Battery health monitoring and alerts
-- [ ] Integration with home automation systems
-- [ ] Voice control interface
-- [ ] Cloud data backup and analytics
-- [ ] Multi-language support for dashboard
-
----
 
 ## 🤝 Contributors
 
