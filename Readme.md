@@ -395,7 +395,7 @@ RIGHT_STOP_PIN = 9     # Top limit switch
 
 ![Fuse Protection](Images/Chair_Lift/Fuse.jpeg)
 
-*New fuse holder with proper rating installed*
+*Bad fuse connection with loose wiring setup*
 
 </div>
 
@@ -458,29 +458,6 @@ This project was made possible by the collaborative efforts of:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- MicroPython community for excellent documentation
-- ESP32 and Raspberry Pi Pico communities
-- INA238 sensor library contributors
-- All users who provided feedback during testing
-
----
-
-## 📞 Support
-
-For questions, issues, or contributions, please open an issue on GitHub or contact the project maintainers.
-
----
-
-**⚠️ Safety Notice:** This system involves high voltage and moving mechanical parts. Always follow proper electrical safety procedures. Ensure all modifications comply with local electrical codes and regulations. Regular maintenance and inspection are required for safe operation.
-
----
 
 *Last Updated: May 2026*
